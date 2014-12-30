@@ -29,11 +29,9 @@ You can find a list of releases for fig [here](https://github.com/docker/fig/rel
 ## Required Puppet Modules
 
 * `boxen`
-* `docker`
 * `homebrew`
 * `ripienaar/puppet-module-data`
 * `stdlib`
-* `virtualbox`
 
 ## Development
 
